@@ -1,0 +1,24 @@
+﻿  main.cpp
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(685,44): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1214,63): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1214,39): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1214,34): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1215,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1216,14): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1217,52): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1217,37): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1217,24): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1226,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1228,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1232,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1234,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1264,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1266,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1287,25): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\gkrls\source\repos\mini_project001\main.cpp(1290,26): warning C4244: '인수': 'double'에서 'GLfloat'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  2 of 38 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  mini_project001.vcxproj -> C:\Users\gkrls\source\repos\mini_project001\x64\Release\mini_project001.exe
